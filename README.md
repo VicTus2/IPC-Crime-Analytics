@@ -156,9 +156,7 @@ Planned improvements:
 
 ```
 📦 IPC-Crime-Analysis
- ┣ 📂 data
- ┣ 📂 notebooks
- ┣ 📂 visuals
+ ┣ 📄 crime_cleaned.csv
  ┣ 📄 README.md
  ┗ 📄 crime_analysis.py
 ```
