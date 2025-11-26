@@ -160,7 +160,7 @@ Planned improvements:
  ┣ 📂 notebooks
  ┣ 📂 visuals
  ┣ 📄 README.md
- ┗ 📄 crime_analysis.ipynb
+ ┗ 📄 crime_analysis.py
 ```
 
 ---
